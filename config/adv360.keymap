@@ -17,7 +17,7 @@
         &kp TAB   &kp Q     &kp W    &kp E    &kp R      &kp T  &kp Y                                                            &kp T &kp Y  &kp U  &kp I     &kp O    &kp P    &kp BSLH
         &kp ESC   &kp A     &kp S    &kp D    &kp F      &kp G  &kp H           &kp LALT &kp LGUI  &kp RGUI &kp RALT             &kp G &kp H  &kp J  &kp K     &kp L    &kp SEMI &kp SQT
         &kp LSHFT &kp Z     &kp X    &kp C    &kp V      &kp B                           &kp HOME   &kp END                        &kp N  &kp M &kp COMMA &kp DOT  &kp FSLH &kp RSHFT
-        &mo 1     &kp CAPS &kp GRAVE &kp LEFT &kp RIGHT                &kp SPACE &kp DEL &kp LCTRL &kp RCTRL &kp ENTER &kp BSPC               &kp DOWN &kp UP  &kp LBKT &kp RBKT &mo 1
+        &mo 1     &caps_word &kp GRAVE &kp LEFT &kp RIGHT                &kp SPACE &kp DEL &kp LCTRL &kp RCTRL &kp ENTER &kp BSPC               &kp DOWN &kp UP  &kp LBKT &kp RBKT &mo 1
       >;
     };
     fn {
